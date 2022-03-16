@@ -1,0 +1,19 @@
+T__0=1
+T__1=2
+T__2=3
+T__3=4
+T__4=5
+Number=6
+Letter=7
+ADD=8
+EQUAL=9
+GREATER_THAN=10
+WS=11
+'if ('=1
+') then'=2
+'else'=3
+'print('=4
+')'=5
+'+'=8
+'='=9
+'>'=10
